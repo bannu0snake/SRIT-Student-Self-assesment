@@ -14,7 +14,7 @@ const Header = () => {
                     loop
                 />
 
-                <a href="#" className="btn-main-offer">Sign up</a>
+                <a href="https://self-assesment-dashboard.herokuapp.com/signup/" className="btn-main-offer">Sign up</a>
             </div>
         </div>
     )
