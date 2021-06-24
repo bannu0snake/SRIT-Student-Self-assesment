@@ -21,14 +21,9 @@ const Navbar = () => {
           <li className="nav-item active">
             <a className="nav-link" href="#">Home <span className="sr-only"></span></a>
           </li>
+          
           <li className="nav-item">
-            <a className="nav-link" href= "#">About</a>
-          </li>
-          <li className="nav-item">
-            <a className="nav-link" href="#">Services</a>
-          </li>
-          <li className="nav-item">
-            <a className="nav-link" href="https://self-assesment-dashboard.herokuapp.com" >Login</a>
+            <a className="nav-link" href="https://srit-self-assesment-dashboard.herokuapp.com" >Login</a>
           </li>
           
         </ul>
